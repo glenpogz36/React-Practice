@@ -1,3 +1,5 @@
+import ticketListReducer from '../../src/reducers/ticket-list-reducer';
+
 describe('ticketListReducer', () => {
 
     let action;
